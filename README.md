@@ -16,3 +16,4 @@ A simple and responsive portfolio website built using **HTML**, **CSS**, and **J
 [index.html](index.html)  
 [style.css](style.css)  
 [script.js](script.js)
+
